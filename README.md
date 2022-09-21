@@ -24,7 +24,6 @@ Version:
 If you already install nodejs, node and react, but not this version you must perform first of all this command under number 2 and then 1:
 
 ## 2
-### `npm start`
 ### `sudo apt-get update`
 ### `sudo apt --auto-remove purge npm`
 ### `sudo apt --auto-remove purge nodejs`
