@@ -1,6 +1,18 @@
 ### Instruction run project
 
-To perform this command in your terminal:
+Open terminal and run next command:
+
+`sudo docker-compose up --build`
+
+`sudo chmod -R 0777 *`
+
+`sudo docker-compose up`
+
+Open http://localhost:3000 to view it in your browser.
+
+
+
+If you want run project without docker you must perform this command in your terminal:
 
 ### 1
 `sudo apt install nodejs`
